@@ -2,7 +2,7 @@
 name = "keep-the-lads-in-check"
 version = "0.2.0"
 description = "A discord bot for my discord server."
-authors = ["Arpit Chakladar <54011232+arpitchakladar@users.noreply.github.com>"]
+authors = ["Arpit Chakladar <54011232+anaialar@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
